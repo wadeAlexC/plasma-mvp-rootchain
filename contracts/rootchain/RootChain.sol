@@ -50,7 +50,7 @@ contract RootChain is Ownable {
         address owner;
         uint256 amount;
         uint256 createdAt;
-        uint256 ethBlocknum;
+        uint256 ethBlockNum;
     }
 
     // exits
